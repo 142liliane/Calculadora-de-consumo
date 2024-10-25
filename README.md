@@ -6,7 +6,7 @@
 
 ## Funcionalidades
 > - [x] Entrada de dados (potência(w), tempo de uso(horas) e preço por KWH(R$) ).
-> - [x] exibir o consumo de energia e o custo associado de diferentes aparelhos eletrônicos.
+> - [x] Exibir o consumo de energia e o custo associado de diferentes aparelhos eletrônicos.
 > - [x] Interface simples e intuitiva.
 
 ## Interface simples e intuitiva
