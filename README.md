@@ -31,7 +31,7 @@
 > O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## Telas do Aplicativo 1
-> **Tela Principal**
+> **Tela Principal:**
 > Na tela principal, o usuário insere: potência(w), tempo de uso(horas) e preço por KWH(R$).
 >  e o app calcula e exibe o consumo de energia e o custo associado de diferentes aparelhos eletrônicos..
 
